@@ -1,0 +1,286 @@
+{
+  "fonte": "references/fontes/re-249-2026-consun.pdf",
+  "ano": 2026,
+  "notas": [
+    "Os eventos em 2026-09-11, 2026-10-17, 2026-10-19 e 2026-11-05 vêm da seção 'Observações importantes' da página oficial da calculadora de TDE (https://ava.pucpr.br/calculo_do_TDE/, acessada em 2026-11-13), não constando diretamente na Resolução 249/2026 - CONSUN."
+  ],
+  "semestres": {
+    "1": {
+      "inicio_aulas": "2026-03-02",
+      "fim_aulas": "2026-06-27"
+    },
+    "2": {
+      "inicio_aulas": "2026-08-03",
+      "fim_aulas": "2026-11-28"
+    }
+  },
+  "eventos": [
+    {
+      "data": "2026-01-01",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Confraternização Universal",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 2
+    },
+    {
+      "data": "2026-02-16",
+      "data_fim": "2026-02-17",
+      "tipo": "recesso",
+      "descricao": "Recesso acadêmico e Administrativo - Carnaval",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 2
+    },
+    {
+      "data": "2026-02-18",
+      "tipo": "recesso",
+      "descricao": "Recesso acadêmico e Administrativo - Quarta-feira de Cinzas",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 2
+    },
+    {
+      "data": "2026-03-14",
+      "tipo": "evento",
+      "descricao": "Aniversário da PUCPR",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": false,
+      "pagina": 3
+    },
+    {
+      "data": "2026-04-02",
+      "tipo": "recesso",
+      "descricao": "Recesso Acadêmico e Administrativo - Quinta-feira Santa",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-04-03",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Paixão de Nosso Senhor Jesus Cristo",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-04-04",
+      "tipo": "recesso",
+      "descricao": "Recesso Acadêmico e Administrativo - Sábado Santo - Vigília Pascal",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-04-05",
+      "tipo": "evento",
+      "descricao": "Páscoa",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": false,
+      "pagina": 3
+    },
+    {
+      "data": "2026-04-20",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-04-21",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional – Dia de Tiradentes",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-05-01",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Dia do Trabalho",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-05-02",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 3
+    },
+    {
+      "data": "2026-06-04",
+      "tipo": "feriado",
+      "descricao": "Feriado - Corpus Christi",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 4
+    },
+    {
+      "data": "2026-06-05",
+      "data_fim": "2026-06-06",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 4
+    },
+    {
+      "data": "2026-06-06",
+      "tipo": "evento",
+      "descricao": "Dia de São Marcelino Champagnat",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": false,
+      "pagina": 4
+    },
+    {
+      "data": "2026-06-12",
+      "tipo": "feriado",
+      "descricao": "Feriado Local - Campus Londrina - Dia do Sagrado Coração de Jesus",
+      "campus": ["lon"],
+      "suspende_aula": true,
+      "pagina": 4
+    },
+    {
+      "data": "2026-06-13",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo - Londrina",
+      "campus": ["lon"],
+      "suspende_aula": true,
+      "pagina": 4
+    },
+    {
+      "data": "2026-09-07",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Independência do Brasil",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-09-08",
+      "tipo": "feriado",
+      "descricao": "Feriado Local - Campus Curitiba - Dia de Nossa Senhora da Luz dos Pinhais",
+      "campus": ["ctb"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-09-11",
+      "tipo": "evento",
+      "descricao": "Aulas do turno da noite (Curitiba e Toledo) e da noite após o intervalo (Londrina) têm carga horária somada ao TDE",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": false,
+      "fonte": "https://ava.pucpr.br/calculo_do_TDE/ - Observação 2 (2026-11-13)"
+    },
+    {
+      "data": "2026-10-12",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Nossa Senhora Aparecida",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-10-13",
+      "tipo": "recesso",
+      "descricao": "Recesso Acadêmico e Administrativo - Dia do Professor e do Auxiliar em Administração Escolar",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-10-17",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo (calculadora oficial de TDE)",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "fonte": "https://ava.pucpr.br/calculo_do_TDE/ - Observação 1 (2026-11-13)"
+    },
+    {
+      "data": "2026-10-19",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo (calculadora oficial de TDE)",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "fonte": "https://ava.pucpr.br/calculo_do_TDE/ - Observação 1 (2026-11-13)"
+    },
+    {
+      "data": "2026-10-26",
+      "data_fim": "2026-10-29",
+      "tipo": "evento",
+      "descricao": "Seminários de Iniciação Científica (SEMIC) e Iniciação Tecnológica (SEMITI)",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": false,
+      "pagina": 6
+    },
+    {
+      "data": "2026-11-02",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Dia de Finados",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-11-05",
+      "tipo": "evento",
+      "descricao": "Aulas com carga horária entre 09h40 e 12h40 contabilizadas como TDE",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": false,
+      "fonte": "https://ava.pucpr.br/calculo_do_TDE/ - Observação 2 (2026-11-13)"
+    },
+    {
+      "data": "2026-11-15",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Proclamação da República",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-11-20",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Dia Nacional de Zumbi e da Consciência Negra",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-11-21",
+      "tipo": "recesso",
+      "descricao": "Trabalho Discente Efetivo",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 6
+    },
+    {
+      "data": "2026-12-10",
+      "tipo": "feriado",
+      "descricao": "Feriado local - Campus Londrina - Aniversário da Cidade",
+      "campus": ["lon"],
+      "suspende_aula": true,
+      "pagina": 7
+    },
+    {
+      "data": "2026-12-14",
+      "tipo": "feriado",
+      "descricao": "Feriado local - Campus Toledo - Aniversário da Cidade",
+      "campus": ["tol"],
+      "suspende_aula": true,
+      "pagina": 7
+    },
+    {
+      "data": "2026-12-25",
+      "tipo": "feriado",
+      "descricao": "Feriado Nacional - Natal",
+      "campus": ["ctb", "lon", "tol"],
+      "suspende_aula": true,
+      "pagina": 7
+    }
+  ]
+}

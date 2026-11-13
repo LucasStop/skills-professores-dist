@@ -1,0 +1,451 @@
+{
+  "fonte": "PPC BSI 2023 (PPC_BSI_2023_02082024VR.docx), Figura 9 — Matriz de Competências (ANEXO, word/media/image16.png)",
+  "legenda": {
+    "I": "Internaliza",
+    "M": "Mobiliza",
+    "C": "Certifica"
+  },
+  "competencias": {
+    "A": {
+      "descricao": "Implementar sistemas de informação para diferentes plataformas tecnológicas, de acordo com suas especificações técnicas, monitorando a execução dos projetos e utilizando padrões e métodos de forma colaborativa, autônoma, sistematizada e integrada.",
+      "elementos": {
+        "A1": "Definir a sequência lógica a partir da análise das especificações de software",
+        "A2": "Codificar produtos de software conforme os requisitos e as especificações, utilizando boas práticas de programação e ferramentas de versionamento, de forma sistematizada e colaborativa.",
+        "A3": "Testar produtos de software em relação aos requisitos e às especificações de forma sistematizada, integrada e autorregulada",
+        "A4": "Monitorar a execução do projeto de tecnologia da informação, promovendo ajustes necessários, de forma crítica e eficaz"
+      }
+    },
+    "B": {
+      "descricao": "Projetar sistemas de informação, utilizando as diretrizes da Engenharia de Software e boas práticas da gestão de projetos, de forma autorregulada, colaborativa e em consonância com princípios éticos.",
+      "elementos": {
+        "B1": "Identificar oportunidades de desenvolvimento de Sistemas de Informação a partir do entendimento do negócio e da análise de viabilidade atuando de forma crítica e ética",
+        "B2": "Especificar requisitos de software combinando métodos, técnicas e ferramentas de forma precisa e colaborando com equipes multidisciplinares",
+        "B3": "Criar modelos de soluções computacionais inovadores, utilizando a linguagem mais apropriada ao contexto para dados estruturados e não estruturados.",
+        "B4": "Planejar arquiteturas inovadoras e seguras de software baseadas em padrões e normas, selecionando configuração adequada de hardware e software"
+      }
+    },
+    "C": {
+      "descricao": "Intervir na sociedade de forma crítica, criativa e propositiva, fundamentado em reflexão filosófico teológica, promovendo o sentido de vida, mediante a cultura da solidariedade, dos direitos humanos, da sustentabilidade e do respeito à diversidade.",
+      "elementos": {
+        "C1": "Problematizar a realidade no aspecto pessoal, profissional e social da existência humana.",
+        "C2": "Posicionar se criticamente frente aos desafios contemporâneos da existência humana",
+        "C3": "Propor ações interventivas na sociedade fundamentadas em reflexão filosófico-teológica."
+      }
+    }
+  },
+  "disciplinas": [
+    {
+      "periodo": 1,
+      "disciplina": "Raciocínio Algorítmico",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Resolução de Problemas Com Lógica Matemática",
+      "elementos": {
+        "A1": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Fundamentos de Sistemas Ciber-Físicos",
+      "elementos": {
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Experiência Criativa: Navegando Pelos Sistemas de Informação",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "B1": "Internaliza",
+        "B2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 1,
+      "disciplina": "Desenvolvimento de Carreira",
+      "elementos": {
+        "B1": "Internaliza",
+        "C1": "Internaliza",
+        "C2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Programação Orientada a Objetos",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Banco de Dados",
+      "elementos": {
+        "B1": "Internaliza",
+        "B2": "Internaliza",
+        "B3": "Internaliza"
+      }
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Matemática Discreta e Suas Aplicações",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "A3": "Internaliza"
+      }
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Web Development: Front-End",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 2,
+      "disciplina": "Filosofia",
+      "elementos": {
+        "C1": "Internaliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Clínica de TIC",
+      "elementos": {
+        "A4": "Internaliza",
+        "C1": "Internaliza",
+        "C2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Conectividade de Sistemas Ciber-Físicos",
+      "elementos": {
+        "A4": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Segurança da Informação",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Web Development: Framework",
+      "elementos": {
+        "A1": "Internaliza",
+        "A2": "Internaliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza",
+        "B1": "Internaliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Experiência Criativa: Implementação de Sistemas de Informação",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Web Development: HTML5 Canvas & Games",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Internaliza"
+      }
+    },
+    {
+      "periodo": 3,
+      "disciplina": "Ética",
+      "elementos": {
+        "C2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Performance em Sistemas Ciber-Físicos",
+      "elementos": {
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Métodos e Ferramentas de Engenharia de Software",
+      "elementos": {
+        "B1": "Internaliza",
+        "B2": "Internaliza",
+        "B3": "Internaliza"
+      }
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Mobile Development: Android",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza",
+        "B1": "Internaliza"
+      }
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Database Performance Tunning",
+      "elementos": {
+        "A3": "Internaliza",
+        "A4": "Internaliza",
+        "B3": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Back-End: Web Services",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 4,
+      "disciplina": "Teologia e Sociedade",
+      "elementos": {
+        "C3": "Internaliza"
+      }
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Big Data",
+      "elementos": {
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Resolução de Problemas Estruturados",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Mobile Development: IOS",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Internaliza",
+        "A4": "Internaliza",
+        "B1": "Internaliza"
+      }
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Experiência Criativa: Projetando Sistemas de Informação",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Mobiliza",
+        "A4": "Mobiliza"
+      }
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Análise e Design de Sistemas de Informação",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "A3": "Mobiliza",
+        "B1": "Internaliza",
+        "B2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 5,
+      "disciplina": "Desenvolvimento Ágil de Software",
+      "elementos": {
+        "B1": "Internaliza",
+        "B2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Especificação de Software",
+      "elementos": {
+        "B1": "Internaliza",
+        "B2": "Internaliza"
+      }
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Design Patterns",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "B1": "Internaliza",
+        "B2": "Internaliza",
+        "B3": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Mobile Development: Framework",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "B2": "Internaliza",
+        "B3": "Internaliza"
+      }
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Data Analytics",
+      "elementos": {
+        "A4": "Mobiliza",
+        "B3": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 6,
+      "disciplina": "Back-End: Cloud Computing",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "B3": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 7,
+      "disciplina": "Gestão de Equipes de Alto Desempenho",
+      "elementos": {
+        "B1": "Internaliza",
+        "B2": "Internaliza",
+        "C1": "Mobiliza",
+        "C2": "Mobiliza",
+        "C3": "Mobiliza"
+      }
+    },
+    {
+      "periodo": 7,
+      "disciplina": "Gestão de Projetos de TI",
+      "elementos": {
+        "B1": "Mobiliza",
+        "B2": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 7,
+      "disciplina": "DevOps",
+      "elementos": {
+        "A3": "Mobiliza",
+        "A4": "Mobiliza",
+        "B3": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 7,
+      "disciplina": "Desenvolvimento Ágil de Produto I",
+      "elementos": {
+        "A1": "Certifica",
+        "A2": "Certifica",
+        "A3": "Certifica",
+        "A4": "Certifica"
+      }
+    },
+    {
+      "periodo": 7,
+      "disciplina": "Inovação e Empreendedorismo em Sistemas de Informação",
+      "elementos": {
+        "B1": "Mobiliza",
+        "B2": "Mobiliza",
+        "B3": "Internaliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Desenvolvimento Ágil de Produto II",
+      "elementos": {
+        "B1": "Certifica",
+        "B2": "Certifica",
+        "B3": "Certifica",
+        "B4": "Certifica"
+      }
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Governança de Tecnologia da Informação",
+      "elementos": {
+        "B1": "Mobiliza",
+        "B2": "Mobiliza",
+        "B3": "Mobiliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Management Science",
+      "elementos": {
+        "A1": "Mobiliza",
+        "A2": "Mobiliza",
+        "B3": "Mobiliza",
+        "B4": "Internaliza"
+      }
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Inovação nos Processos de Negócio",
+      "elementos": {
+        "B1": "Mobiliza",
+        "B2": "Mobiliza",
+        "B3": "Mobiliza"
+      }
+    },
+    {
+      "periodo": 8,
+      "disciplina": "Sistemas de Informação Inteligentes",
+      "elementos": {
+        "A3": "Mobiliza",
+        "A4": "Mobiliza",
+        "B3": "Mobiliza",
+        "B4": "Mobiliza"
+      }
+    }
+  ]
+}
